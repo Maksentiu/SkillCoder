@@ -8,7 +8,7 @@
   - [2.2 Интерфейс пользователя](#22-интерфейс-пользователя)
   - [2.3 Характеристики пользователей](#23-характеристики-пользователей)
   - [2.4 Предположения и зависимости](#24-предположения-и-зависимости)
-- [3. Системные требования](#3-cистемные-требования)
+- [3. Системные требования](#3-системные-требования)
   - [3.1 Функциональные требования](#31-функциональные-требования)
   - [3.2 Нефункциональные требования](#32-нефункциональные-требования)
 
@@ -29,17 +29,17 @@ SkillCoder — это приложение для изучения языка п
 Интерфейс приложения будет включать:
 - **Экран регистрации:** позволяет пользователям зарегистрироваться или войти в аккаунт.
 
-![Image1](https://github.com/PahanHvesco/SkillCoder/blob/master/cache/New%20Mockup%201.png)
-![Image2](https://github.com/PahanHvesco/SkillCoder/blob/master/cache/New%20Mockup%202.png)
+![Image1](https://https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%201.png)
+![Image2](https://https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%202.png)
 - **Главный экран:** с доступом к урокам, заданиям и прогрессу пользователя.
 
-![Image3](https://github.com/PahanHvesco/SkillCoder/blob/master/cache/New%20Mockup%203.png)
+![Image3](https://https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%203.png)
 - **Экран урока:** текстовые описания, примеры кода и интерактивные элементы.
 
-![Image4](https://github.com/PahanHvesco/SkillCoder/blob/master/cache/New%20Mockup%204.png)
+![Image4](https://https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%204.png)
 - **Редактор кода:** интегрированный компилятор с поддержкой подсветки синтаксиса и автозаполнения.
 
-![Image5](https://github.com/PahanHvesco/SkillCoder/blob/master/cache/New%20Mockup%205.png)
+![Image5](https://https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%205.png)
 - **Экран результатов:** отображение результатов выполнения кода и ошибок, если таковые имеются.
 
 **Таблица "действие пользователя - реакция":**
